@@ -1,5 +1,5 @@
 # password-strength-checker
-it is python code which check password strength by
+It is python code which check password strength by
 measuring it's length, 
 by checking the usage of 
                         capital letters,
